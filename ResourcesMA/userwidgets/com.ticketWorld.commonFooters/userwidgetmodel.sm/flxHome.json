@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "100dp"
+        "value": "153dp"
     },
     "_left_": {
         "type": "string",
-        "value": "50dp"
+        "value": "24dp"
     },
     "_margin_": [
         0,
@@ -22,21 +22,21 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sfcc06b83c1a478284685db6dfa96675",
+    "_skin_": "s248fc3d712945029a704e62d5df0031",
     "_top_": {
         "type": "string",
         "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100dp"
+        "value": "153dp"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "centery": {
         "type": "string",
-        "value": "50%"
+        "value": "19%"
     },
     "children": [
         "imgHome"

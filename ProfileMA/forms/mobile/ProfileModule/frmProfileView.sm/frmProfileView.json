@@ -15,7 +15,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s50b216ef19d45cbac2e73f90fd7feba",
+    "_skin_": "s2466dcf347244a6b91f9034e176a3f8",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -37,15 +37,17 @@
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "Form1Controller"
+            "name": "frmProfileViewController"
         }
     },
+    "currentLocale": "default",
     "desktopweb": {
         "needAppMenu": false
     },
+    "device": "iPhone13ProMax",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "Form1",
+    "id": "frmProfileView",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -63,7 +65,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "g935c5ef2c2f489594e6dffc31950347",
+                "kuid": "gc16d30102f74dcfb2073fce6c7105eb",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -74,7 +76,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "f097eee35dcb4db1a0ce44ed07af8b48",
+                        "kuid": "j756c17b99f64acc8f2be65a7b8a373b",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -91,11 +93,14 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "a09f78fa17c747ecabae617b9f1b6f2e",
+    "kuid": "d05c68d6914c472fa8f0661f8473e9bf",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
+    "platform": "iphone",
+    "prevDevice": "iPhone13ProMax",
+    "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
@@ -119,7 +124,7 @@
     "spawinphone8": {
         "needAppMenu": false
     },
-    "titleBarSkin": "s6ad4ce1270f4173b7abfbb6168818c2",
+    "titleBarSkin": "s4fb4ba5714a43b68a14af5225b3a337",
     "titlebar": true,
     "type": 3,
     "wType": "Form",

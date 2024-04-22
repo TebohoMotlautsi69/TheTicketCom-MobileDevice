@@ -5,11 +5,19 @@
             "linkDataArray": [],
             "nodeDataArray": [
                 {
-                    "formKUID": "ccf87907198e4c898def46a618514ac2",
-                    "formName": "Form1",
-                    "isStartupForm": true,
-                    "key": "ccf87907198e4c898def46a618514ac2",
-                    "loc": "8 24.845263671875003",
+                    "formKUID": "d05c68d6914c472fa8f0661f8473e9bf",
+                    "formName": "frmProfileView",
+                    "isStartupForm": false,
+                    "key": "d05c68d6914c472fa8f0661f8473e9bf",
+                    "loc": "228 239.69052734375",
+                    "thumbnailURL": null
+                },
+                {
+                    "formKUID": "d1fc396a57da4c74ab5d3bf55c1c56fe",
+                    "formName": "frmLogin",
+                    "isStartupForm": false,
+                    "key": "d1fc396a57da4c74ab5d3bf55c1c56fe",
+                    "loc": "8 1239.69052734375",
                     "thumbnailURL": null
                 }
             ]

@@ -1,22 +1,3 @@
 {
-    "dependencies": [
-        {
-            "name": "TicketMasterWorld",
-            "useResources": true,
-            "isHidden": false,
-            "excludeFromBuild": false
-        },
-        {
-            "name": "ResourcesMA",
-            "useResources": true,
-            "isHidden": false,
-            "excludeFromBuild": false
-        },
-        {
-            "name": "ProfileMA",
-            "useResources": true,
-            "isHidden": false,
-            "excludeFromBuild": false
-        }
-    ]
+    "dependencies": []
 }

@@ -6,7 +6,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "2dp"
+        "value": "12dp"
     },
     "_margin_": [
         0,
@@ -29,7 +29,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "310dp"
+        "value": "170dp"
     },
     "allboxes": [],
     "autogrowmode": 0,

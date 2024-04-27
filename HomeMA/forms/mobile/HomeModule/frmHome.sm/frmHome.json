@@ -49,6 +49,7 @@
     "device": "iPhone13ProMax",
     "displayorientation": 1,
     "enabledforidletimeout": false,
+    "friendlyName": "frmHome",
     "id": "frmHome",
     "info": null,
     "initdone": false,

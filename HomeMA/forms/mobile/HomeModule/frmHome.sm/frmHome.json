@@ -32,7 +32,9 @@
         }
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "flxMain"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
@@ -40,9 +42,11 @@
             "name": "frmHomeController"
         }
     },
+    "currentLocale": "default",
     "desktopweb": {
         "needAppMenu": false
     },
+    "device": "iPhone13ProMax",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmHome",
@@ -96,6 +100,9 @@
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
+    "platform": "iphone",
+    "prevDevice": "iPhone13ProMax",
+    "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,

@@ -4,7 +4,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "100dp"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -23,14 +23,14 @@
         0
     ],
     "_skin_": "s3a2940fd78446d1b84ab70d7f5c961f",
-    "_src_": "imagedrag.png",
+    "_src_": "logoticketworld.png",
     "_top_": {
         "type": "string",
         "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "328dp"
+        "value": "90.20%"
     },
     "canUpdateUI": true,
     "containerweight": 100,
